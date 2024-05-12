@@ -1,0 +1,16 @@
+{
+    "posts": [
+        { "id": "1", "title": "Glow Stick Secret 😱 #shorts", "views": "102 triệu lượt xem", "channel": "Mr geGrEEd", "infomation": "Mình là người Việt Nam!!! Chào mừng các bạn đã ghé thăm kênh của mình nhé!!! Cảm ơn các bạn đã theo dõi và ủng hộ các video trên kênh!!! Mình sẽ cố...", "date": "2 ngày trước"},
+        { "id": "2", "title": "CHẠY LẸ ĐI BÀ #haibadane #shorts", "views": "2 triệu lượt xem", "channel": "Hai bà dà nè",  "infomation": "Cùng theo dõi các trận của MSI hôm nay nhé 16h00: G2 vs T1 ► Đăng ký kênh để cập nhật các thông tin về VCS một cách mới nhất: Youtube: https://www.youtub...", "date": "5 ngày trước" },
+        { "id": "3", "title": "Tạp hoá bất ổn p148(doạ ma ông)#shorts", "views": "23 triệu lượt xem", "channel": "Tạp hoá bất ổn", "infomation": "Xin chào các bạn đã đến với kênh Tiệm tạp hóa bất ổn, nơi chứa đựng những video giải trí, tạp hóa, đồ ăn thú vị Mọi người hay đăng ký và coi...", "date": "1 ngày trước" },
+        { "id": "4", "title": "原来小女孩在求救#海贼王 #路飞", "views": "1 triệu lượt xem", "channel": "路飞与唐舞桐", "infomation": "装扮海贼王角色，以动漫人设演绎现代搞笑剧情，油管的伙伴们大家好! 我是路飞与唐舞桐，正式入驻油管了，此频道唯一授权频道 其他频道皆为盗...", "date": "3 ngày trước" },
+        { "id": "5", "title": "Tiếng Việt gây lú nè, coi chừng hiểu lầm đó nhaaaa 😅🥰 #tiengviet #choichu #haihuoc #j4f", "views": "1.8 triệu lượt xem", "channel": "Min Hieu", "infomation": "#vtvshows #70namchienthangDienBienPhu Lễ kỷ niệm diễu binh, diễu hành 70 năm Chiến thắng Điện Biên Phủ. #VTVSHOWS là kênh giải trí số của Đài Truyền hình...", "date": "1 tuần trước" }
+    ],
+    "comments": [
+        { "id": "1", "text": "a comment about post 1", "postId": "1" },
+        { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
